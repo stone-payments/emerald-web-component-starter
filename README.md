@@ -8,6 +8,6 @@ This repository has the basic files needed for creating a component using the [S
   <my-sling-web-component></my-sling-web-component>
 ```
 
- ## Dependencies       
+## Dependencies       
 
-* **sling-web-helpers** 
+* **sling-framework** 
